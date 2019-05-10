@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\MERT\source\repos\DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.dll
+C:\Users\MERT\source\repos\DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.pdb
