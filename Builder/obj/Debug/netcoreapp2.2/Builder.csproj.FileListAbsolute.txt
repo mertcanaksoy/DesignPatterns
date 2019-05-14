@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.dll
+C:\Users\MERT\source\repos\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.dll
+C:\Users\MERT\source\repos\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.pdb
