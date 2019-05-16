@@ -7,9 +7,9 @@ Abstract Pattern</br>
 Prototype Pattern</br>
 Builder Pattern</br>
 Facade Pattern</br>
-Adapter Pattern</br>~~
+Adapter Pattern</br>
 Composite Pattern</br>
-Proxy Pattern</br>
+Proxy Pattern</br>~~
 Decorator Pattern</br>
 Bridge Pattern</br>
 Strategy Pattern</br>
@@ -24,3 +24,6 @@ Visitor Pattern</br>
 Dependency Injection Pattern</br>
 Null Object Pattern</br>
 Multiton Pattern</br>
+
+#### NOTE: I have some issues about Composite Pattern. If you have any solutions, please contribute it for me. 
+#### NOT: Composite Deseni kısmında eksiklerimin olduğunu düşünüyorum. Dilerseniz katkıda bulunabilirsiniz.
