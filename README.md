@@ -9,8 +9,8 @@ Builder Pattern</br>
 Facade Pattern</br>
 Adapter Pattern</br>
 Composite Pattern</br>
-Proxy Pattern</br>~~
-Decorator Pattern</br>
+Proxy Pattern</br>
+Decorator Pattern</br>~~
 Bridge Pattern</br>
 Strategy Pattern</br>
 Observer Pattern</br>
