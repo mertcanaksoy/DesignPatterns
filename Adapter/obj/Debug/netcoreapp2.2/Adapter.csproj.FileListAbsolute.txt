@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.dll
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.dll
+C:\Users\MERT\source\repos\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.pdb

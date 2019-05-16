@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp2.2\Facade.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp2.2\Facade.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp2.2\Facade.dll
+C:\Users\MERT\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp2.2\Facade.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.dll
+C:\Users\MERT\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp2.2\Facade.pdb
