@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.dll
+C:\Users\MERT\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.dll
+C:\Users\MERT\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.pdb

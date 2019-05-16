@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\bin\Debug\netcoreapp2.2\Proxy.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\bin\Debug\netcoreapp2.2\Proxy.dll
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\bin\Debug\netcoreapp2.2\Proxy.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.dll
+C:\Users\MERT\source\repos\DesignPatterns\Proxy\obj\Debug\netcoreapp2.2\Proxy.pdb
