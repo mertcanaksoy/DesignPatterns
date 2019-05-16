@@ -25,5 +25,5 @@ Dependency Injection Pattern</br>
 Null Object Pattern</br>
 Multiton Pattern</br>
 
-#### NOTE: If you have any Composite Pattern solutions, please contribute it for me. 
+#### NOTE: I have some issues about Composite Pattern. If you have any solutions, please contribute it for me. 
 #### NOT: Composite Deseni kısmında eksiklerimin olduğunu düşünüyorum. Dilerseniz katkıda bulunabilirsiniz.
