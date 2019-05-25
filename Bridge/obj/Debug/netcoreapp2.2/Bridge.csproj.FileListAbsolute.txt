@@ -1,0 +1,11 @@
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\bin\Debug\netcoreapp2.2\Bridge.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\bin\Debug\netcoreapp2.2\Bridge.dll
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\bin\Debug\netcoreapp2.2\Bridge.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.dll
+C:\Users\MERT\source\repos\DesignPatterns\Bridge\obj\Debug\netcoreapp2.2\Bridge.pdb
