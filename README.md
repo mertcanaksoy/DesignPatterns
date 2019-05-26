@@ -11,9 +11,9 @@ Adapter Pattern</br>
 Composite Pattern</br>
 Proxy Pattern</br>
 Decorator Pattern</br>
-Bridge Pattern</br>~~
+Bridge Pattern</br>
 Strategy Pattern</br>
-Observer Pattern</br>
+Observer Pattern</br>~~
 Chain of Responsibility Pattern</br>
 Memento Pattern</br>
 Templete Method Pattern</br>

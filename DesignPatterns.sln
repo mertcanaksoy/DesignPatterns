@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{47C96B6C-CF2F-4B81-9A2F-ACA2FD4828EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{1772236E-E949-48A9-B923-11FDB5F017F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{1772236E-E949-48A9-B923-11FDB5F017F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{882124E6-FFA9-429B-9775-91D73C09FB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{F4351D21-0A34-49F5-9481-5ACA2F6585B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{1772236E-E949-48A9-B923-11FDB5F017F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1772236E-E949-48A9-B923-11FDB5F017F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1772236E-E949-48A9-B923-11FDB5F017F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882124E6-FFA9-429B-9775-91D73C09FB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882124E6-FFA9-429B-9775-91D73C09FB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882124E6-FFA9-429B-9775-91D73C09FB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882124E6-FFA9-429B-9775-91D73C09FB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4351D21-0A34-49F5-9481-5ACA2F6585B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4351D21-0A34-49F5-9481-5ACA2F6585B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4351D21-0A34-49F5-9481-5ACA2F6585B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4351D21-0A34-49F5-9481-5ACA2F6585B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

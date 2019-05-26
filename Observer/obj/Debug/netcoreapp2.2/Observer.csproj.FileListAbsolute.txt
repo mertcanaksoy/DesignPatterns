@@ -1,0 +1,10 @@
+C:\Users\MERT\source\repos\DesignPatterns\Observer\bin\Debug\netcoreapp2.2\Observer.deps.json
+C:\Users\MERT\source\repos\DesignPatterns\Observer\bin\Debug\netcoreapp2.2\Observer.runtimeconfig.json
+C:\Users\MERT\source\repos\DesignPatterns\Observer\bin\Debug\netcoreapp2.2\Observer.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\DesignPatterns\Observer\bin\Debug\netcoreapp2.2\Observer.dll
+C:\Users\MERT\source\repos\DesignPatterns\Observer\bin\Debug\netcoreapp2.2\Observer.pdb
+C:\Users\MERT\source\repos\DesignPatterns\Observer\obj\Debug\netcoreapp2.2\Observer.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Observer\obj\Debug\netcoreapp2.2\Observer.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\DesignPatterns\Observer\obj\Debug\netcoreapp2.2\Observer.AssemblyInfo.cs
+C:\Users\MERT\source\repos\DesignPatterns\Observer\obj\Debug\netcoreapp2.2\Observer.dll
+C:\Users\MERT\source\repos\DesignPatterns\Observer\obj\Debug\netcoreapp2.2\Observer.pdb
